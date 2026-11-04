@@ -12,7 +12,7 @@
             <span class="text-xs font-semibold text-blue-600 uppercase tracking-wide">Category</span>
             <h3 class="font-bold text-lg text-gray-800 mt-1">Name</h3>
             
-            <p class="text-xs text-green-600 font-medium mt-1">✓ In Stock</p>
+            <p class="text-xs text-green-600 font-medium mt-1">In Stock</p>
         </div>
     </div>
 
